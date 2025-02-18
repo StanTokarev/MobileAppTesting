@@ -21,4 +21,4 @@
 ## Crypto Price Widgets
 <a href="https://play.google.com/store/apps/details?id=com.currency.exchange.widgetscrypto&hl=en_US&pli=1">Google Play</a>&nbsp;&nbsp;<a href="https://apps.apple.com/us/app/bitcoin-crypto-price-widget/id1545909324">Apple Store</a><br><br>
 Создаю глоссарий мобильного приложения Crypto Price Widgets для iOS (eng)
-#### [Глоссарий Crypto Price Widgets iOS ver (PDF)](https://drive.google.com/file/d/1JaK3BzMVAK_48BrQrG9ykP5ef2BjoEB7/view?usp=sharing)
+#### [Глоссарий Crypto Price Widgets, iOS ver (PDF)](https://drive.google.com/file/d/1JaK3BzMVAK_48BrQrG9ykP5ef2BjoEB7/view?usp=sharing)
