@@ -27,4 +27,4 @@
 Создаю глоссарий мобильного приложения ComiCoin: learn cryptocurrency для Android (eng)
 #### [Глоссарий ComiCoin: learn cryptocurrency, Android ver. (Figma)](https://www.figma.com/design/7tKELFNQFTY6ldeN1WRmFA/Screenshots?node-id=54-3&t=X4lWablJ8N442cDj-1)
 Создаю mind map приложения ComiCoin: learn cryptocurrency для Android (eng)
-#### [Mind map ComiCoin: learn cryptocurrency, Android ver. (Figma)](https://miro.com/app/board/uXjVNohlPgE=/)
+#### [Mind map ComiCoin: learn cryptocurrency, Android ver. (Miro)](https://miro.com/app/board/uXjVNohlPgE=/)
